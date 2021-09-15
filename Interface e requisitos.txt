@@ -1,0 +1,30 @@
+=+ Loja += 
+
+-> Ver catalogo
+-> Minha conta
+	=> Dados do cliente (endereço, nome e os caralho)
+-> Meus pedidos
+	=> Registro de compras
+		==> Nota fisca de cada (data, e os caralho)
+-> Ver carrinho
+	=> Remover produto
+	=> Limpar o carrinho
+	=> Adicionar mais um produto
+	=> Mostrar total
+-> Comprar
+	=> Escolher metodo de pagamento
+	=> Escolher metodo de entrega
+		=> Simular frete (colocar um valor foda se)
+-> Sair loja (fecha o programa)
+
+
+=== O que se pode fazer ===
+
+=> Cliente faz cadastro
+=> Cliente pode ver o catalogo completo (todas as lojas)
+=> Ao pedir produto, pode realizar a verificação em outros estoques
+=> Ao comprar, ele escolhe o metodo de entrega (correios, transportadora, motoboy)
+=> Cliente pode por produtos no carrinho
+=> Cliente pode editar os produtos no carrinho (remover ou adicionar mais produtos)
+=> Cliente pode limpar
+=> Favoritar produtos 
